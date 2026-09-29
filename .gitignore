@@ -1,0 +1,20 @@
+# Lokale Zugangsdaten und Konfiguration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Lokale Entwicklungsumgebung
+.vscode/
+.idea/
+
+# Betriebssystemdateien
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporäre Dateien
+*.tmp
+*.bak
+*~
